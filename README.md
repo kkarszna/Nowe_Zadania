@@ -12,15 +12,7 @@ Download the dataset file Crimes_-_2001_to_Present.csv from Kaggle.
 
 Place the downloaded file in the 'data' directory within the project. 
 
-### Dependencies
-Ensure you have the following dependencies installed:
-
-Jupyter Notebook
-pandas
-numpy
-matplotlib
-sklearn
-#### Running the Project
+### Running the Project
 To run the project, follow these steps:
 
 Open your terminal or command prompt.
